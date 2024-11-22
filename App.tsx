@@ -3,6 +3,7 @@ import React from "react";
 import { StatusBar } from "expo-status-bar";
 
 export default function App() {
+  //Test for commit
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Welcome to MyFi</Text>
